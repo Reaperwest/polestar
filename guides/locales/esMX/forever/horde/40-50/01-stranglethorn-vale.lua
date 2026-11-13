@@ -27,7 +27,7 @@ return {
 	-- {area:35} Booty Bay
 	["Fly to {area:35}"] = "Vuela a {area:35}",
 	-- {object:3202} Grom'gol (no name in this language: may be words)
-	["{object:3202} flight master"] = "",
+	["{object:3202} flight master"] = "Maestro de vuelo de {object:3202}",
 
 	-- Step 6: Booty Bay
 	-- {area:35} Booty Bay
@@ -41,7 +41,7 @@ return {
 	["\"Sea Wolf\" MacKinley, on the top floor"] = "",
 	-- {npc:2496} Baron Revilgaz
 	["{npc:2496}, on the balcony beside MacKinley"] = "{npc:2496}, en el balcón junto a MacKinley",
-	["Inside"] = "",
+	["Inside"] = "Adentro",
 
 	-- Step 7: Bloodsail Correspondence
 	-- {area:35} Booty Bay
@@ -168,9 +168,9 @@ return {
 
 	-- Step 31: Booty Bay
 	-- {npc:2498} Crank Fizzlebub
-	["{npc:2498}, inside"] = "",
+	["{npc:2498}, inside"] = "{npc:2498}, adentro",
 	-- {npc:737} Kebok
-	["{npc:737}, upstairs"] = "",
+	["{npc:737}, upstairs"] = "{npc:737}, en el piso de arriba",
 	-- {npc:773} Krazek · {quest:2864} Tran'rek · {area:976} Gadgetzan
 	["{npc:773}, upstairs: for {quest:2864} in {area:976}"] = "",
 

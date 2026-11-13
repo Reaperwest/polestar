@@ -14,7 +14,7 @@ return {
 	-- {object:556670} WANTED (no name in this language: may be words)
 	["The {object:556670} poster by the inn"] = "El cartel de {object:556670} junto a la posada",
 	-- {npc:2229} Krusk
-	["{npc:2229}, inside"] = "",
+	["{npc:2229}, inside"] = "{npc:2229}, adentro",
 
 	-- Step 2: Serge Hinott
 	-- {quest:2479} Hinott's Assistance · {npc:2391} Serge Hinott · {area:272} Tarren Mill
@@ -38,7 +38,7 @@ return {
 
 	-- Step 6: Tarren Mill
 	-- {npc:2216} Apothecary Lydon
-	["{npc:2216}, inside"] = "",
+	["{npc:2216}, inside"] = "{npc:2216}, adentro",
 	-- {npc:2230} Umpi
 	["{npc:2230}, next to Lydon; inside"] = "",
 	-- {quest:567} Dangerous!
@@ -94,7 +94,7 @@ return {
 	["The smithy"] = "La herrería",
 	-- {area:287} Hillsbrad · {npc:2404} Blacksmith Verringtan · {object:1736} Shipment of Iron · {npc:2449} Citizen Wilkes
 	["The smithy stands in the middle of {area:287} town. {npc:2404} and his apprentices work at the forge; the {object:1736} is stacked beside it. {npc:2449} walks the street north of it."] = "La herrería está en el centro del pueblo de {area:287}. {npc:2404} y sus aprendices trabajan en la forja; el {object:1736} está apilado al lado. {npc:2449} camina por la calle al norte.",
-	["Inside"] = "",
+	["Inside"] = "Adentro",
 
 	-- Step 15: The western peak
 	["The western peak"] = "",
@@ -190,7 +190,7 @@ return {
 
 	-- Step 33: Orgrimmar
 	-- {zone:1454} Orgrimmar
-	["The middle of {zone:1454}"] = "",
+	["The middle of {zone:1454}"] = "El centro de {zone:1454}",
 
 	-- Step 34: Orgrimmar
 	["Train before you fly on: the next guide flies from here to the Crossroads."] = "",
