@@ -7159,6 +7159,26 @@
 			]
 		},
 		{
+			"id": "way-hillsbrad-smithy-walk-with-battle-of-hillsbrad",
+			"faction": "Horde",
+			"at": {
+				"quest": 529,
+				"goal": "objective",
+				"objective": 1,
+				"guide": "forever/horde/30-40/01-hillsbrad-foothills"
+			},
+			"way": {
+				"when": "!turnedin 529"
+			},
+			"note": "30-40/01-hillsbrad-foothills: the walk from the Mudsnout blossoms to the point north of Southshore (60.0,42.0) leads to the smithy step for Battle of Hillsbrad (529), which is shown only `when !turnedin 529` (the #1660 catch-up). A character who handed 529 in on the 22-25 guide (with Farmer Kalaba and Citizen Wilkes for Dangerous!) does not see the smithy step, but still walked to 60.0,42.0 and was then sent straight back to Tarren Mill. The walk is for the same players as the smithy step now.",
+			"source": [
+				{
+					"kind": "in-game-check",
+					"ref": "Troll Priest 29 who did forever/horde/06-hillsbrad-foothills (2026-11-16): after the Mudsnout blossoms the arrow went to 59,40, then straight back to Tarren Mill"
+				}
+			]
+		},
+		{
 			"id": "levels-horde-hillsbrad-arathi-top-33",
 			"faction": "Horde",
 			"at": {
